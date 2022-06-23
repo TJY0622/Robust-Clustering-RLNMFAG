@@ -5,7 +5,7 @@ I am very sorry that in Eq.(1) of Detailed Response to Reviewers, d_{jw}^x=||x_j
 # Robust-Clustering-RLNMFAG
 Robust Local-coordinate Non-negative Matrix Factorization with Adaptive Graph for Robust Clustering
 # RLNMFAG
-The code of Robust Local-coordinate Non-negative Matrix Factorization with Adaptive Graph for Robust Clustering
+The code of Robust Local-coordinate Non-negative Matrix Factorization with Adaptive Graph for Robust Clustering,
 INFORMATION SCIENCES, 
 under review.
 Jiayi Tang and Hui Feng
